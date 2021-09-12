@@ -11,7 +11,7 @@ I am {{ site.author }}, {{ site.address }}
 
 ## Tables of Stuff
 
-| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) | 
+| [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) | 
 | [REPOSITORY](https://github.com/rfauzan46/os212) | [LOGS]({{ site.baseurl }}/TXT/mylog.txt)
 <br>
 

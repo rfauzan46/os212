@@ -11,8 +11,6 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "Listing"
-  link:      "/000.html"
 - navbar:    "Repository"
   link:      "https://github.com/rfauzan46/os212"
 - navbar:    "Logs"
