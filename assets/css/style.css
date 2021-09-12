@@ -17,9 +17,9 @@
 /* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
 .plainclass1 {
   color:            hsl(0, 100%, 100%);
-  background-color: hsl(0, 10%, 10%);
+  background-color: hsl(0, 0%, 9%);
   line-height:      120%;
-  font-family:      monospace,courier;
+  font-family:      'Lato', Arial, Helvetica, sans-serif;
 }
 
 .plainclass1 li {
@@ -27,15 +27,15 @@
 }
 
 .plainclass1 h1 {
-  color:            hsl(100, 50%, 50%);
+  color:            hsl(26, 98%, 56%);
 }
 
 .plainclass1 h2 {
-  color:            hsl(100, 50%, 50%);
+  color:            hsl(26, 98%, 56%);
 }
 
 .plainclass1 h3 {
-  color:            hsl(100, 50%, 50%);
+  color:            hsl(26, 98%, 56%);
 }
 
 .container {
@@ -59,7 +59,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       #00a05b;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -146,7 +146,7 @@
 }
 
 .navbar ul li a:hover {
-  background-color: hsla(255,   100%,   50%, 1);
+  background-color: hsl(26, 98%, 56%);
   font-size:        1.15em;
   font-weight:      bold;
   padding:          2px;

@@ -4,3 +4,7 @@
 ZCZC W00 80 L10 Assignment #00
 ZCZC W00 20 L04 Github Pages related
 ZCZC W00 10 L00 After Class Discussions
+ZCZC W01 150 L11 Assignment #01
+ZCZC W01 60 L32 YouTube: Finding references for Assignment #01
+ZCZC W01 30 L08 Consulting to AsDos regarding GitHub errors
+ZCZC W01 45 L00 After Class Discussions
