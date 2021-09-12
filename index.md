@@ -2,40 +2,24 @@
 ---
 
 <br>
-This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
-You can download the source either as a
-[ZIP]({{ site.baseurl }}/template.zip) file or a
-[TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
-File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
+Hello everyone, welcome to Muhammad Rizki Fauzan's (also known as Ojan) Operating System Page! Here I'll update my entire assignments regarding
+to this lecture. 
 
 I am {{ site.author }}, {{ site.address }}
 
 <br>
-## Table Example
 
-| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [ZIP File]({{ site.baseurl }}/template.zip) |
-| [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
+## Tables of Stuff
 
+| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) | 
+| [REPOSITORY](https://github.com/rfauzan46/os212) | [LOGS]({{ site.baseurl }}/TXT/mylog.txt)
 <br>
+
 ## More Links
 
 * [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
-* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
-* [This is how me do it records](https://doit.vlsm.org/)
 
 <br>
-## Source Code
 
-```
-#include <stdio.h>
-
-int main(void) {
-    prinf("As.w.w.\n");
-}
-
-```
-
-<br>
 Qapla!
 
