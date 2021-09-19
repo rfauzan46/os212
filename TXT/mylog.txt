@@ -8,3 +8,7 @@ ZCZC W01 150 L11 Assignment #01
 ZCZC W01 60 L32 YouTube: Finding references for Assignment #01
 ZCZC W01 30 L08 Consulting to AsDos regarding GitHub errors
 ZCZC W01 45 L00 After Class Discussions
+ZCZC W02 90 L12 Assignment #02
+ZCZC W02 30 L00 After Class Discussions
+ZCZC W02 150 L70 Aljabar Linier Assignment
+ZCZC W02 40 L32 YouTube: Finding references for Assignment #02
