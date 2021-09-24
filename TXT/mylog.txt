@@ -12,3 +12,9 @@ ZCZC W02 90 L12 Assignment #02
 ZCZC W02 30 L00 After Class Discussions
 ZCZC W02 150 L70 Aljabar Linier Assignment
 ZCZC W02 40 L32 YouTube: Finding references for Assignment #02
+ZCZC W03 45 L00 After Class Discussions
+ZCZC W03 75 L13 Assignment #03
+ZCZC W03 45 L05 Weekly OS Quiz
+ZCZC W03 20 L06 GSGS references for W03 links
+ZCZC W03 120 L70 SDA Assignment
+ZCZC W03 50 L00 After Class Discussions 
