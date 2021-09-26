@@ -23,3 +23,13 @@ In Assignment #02, one of the key (pun intended) subject we need to learn is cyb
 I also learned that we can use bash to compile several commands as a singular file. In this assignment, I find this feature to be helpful speed up the process of verifying some files with SHA256SUM.asc
 4. [Video: Experimenting with GPG](https://www.youtube.com/watch?v=iEloW5QCvKI)<br/>
 In this video, we can find a complete explanation as to how the encryption with gpgp works and how can we do it. I pick this video because I found this to be the clearest explanation of this process and the implementation of it. Also we can actually find the commands in the description of the video.
+
+# WEEK 03
+1. [C Language](https://www.geeksforgeeks.org/c-language-set-1-introduction/)<br/>
+I learn that in this assignment, we will learn a litte about C language, what is it and why do we use this programming language. I often use GeeksForGeeks for my reference to anything related to what I currently learn, so in this situation I decided to use this website to figure out this language.
+2. [Mounting](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br/>
+In this assignment, one of the task we need to do is to mount the drive we already created. Now we might be confused as to the purpose of this process, and why do we need to do it everytime we reboot the OS. I found this documentation by Oracle to be helpful for answering my curiosities.
+3. [Default Format for MKFS](https://medium.com/teknomuslim/penjelasan-file-system-extended-ext-di-linux-jenis-ext2-ext3-ext4-3181d79bb764)<br/>
+In the documentation given by our lecturer, it mentions Linux's default system when we run a MKFS command as EXT2. Confused, I tend to research as to why is this format be the default and what makes this format superior than the other formats Linux can access. This link is a research compiled into a easy-to-understand article written by an Indonesian Developer/Blogger on Medium. I really suggests everyone to check his works, especially the one I mentioned.
+4. [Video: Linux Directory](https://www.youtube.com/watch?v=42iQKuQodW4)<br/>
+Since we learn about memory management in this assignment, I feel like figuring out the directories in Linux is necessary, and I find this video to be quite easy for me to understand with its short and compact explanation.
