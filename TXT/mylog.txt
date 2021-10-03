@@ -18,3 +18,11 @@ ZCZC W03 45 L05 Weekly OS Quiz
 ZCZC W03 20 L06 GSGS references for W03 links
 ZCZC W03 120 L70 SDA Assignment
 ZCZC W03 50 L00 After Class Discussions 
+ZCZC W04 30 L00 After Class Discussions
+ZCZC W04 40 L14 Assignment #04
+ZCZC W04 180 L70 SDA Assignment
+ZCZC W04 45 L05 Weekly OS Quiz
+ZCZC W04 20 L06 GSGS references for W04 Links
+ZCZC W04 15 L08 Consulting to AsDos regarding TLPI
+ZCZC W04 60 L70 Sister Meeting
+ZCZC W04 45 L00 After Class Discussions
