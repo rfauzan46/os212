@@ -33,3 +33,13 @@ In this assignment, one of the task we need to do is to mount the drive we alrea
 In the documentation given by our lecturer, it mentions Linux's default system when we run a MKFS command as EXT2. Confused, I tend to research as to why is this format be the default and what makes this format superior than the other formats Linux can access. This link is a research compiled into a easy-to-understand article written by an Indonesian Developer/Blogger on Medium. I really suggests everyone to check his works, especially the one I mentioned.
 4. [Video: Linux Directory](https://www.youtube.com/watch?v=42iQKuQodW4)<br/>
 Since we learn about memory management in this assignment, I feel like figuring out the directories in Linux is necessary, and I find this video to be quite easy for me to understand with its short and compact explanation.
+
+# WEEK 04
+1. [Working with Tarball](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)<br/>
+In this week's assignment, one of the task is to extract a file with .tar file type. I decided to take a look at what is tar and ended up finding out about tarball, which essenially means a process of backing up a group of files and combine it into a singular ile with .tar file type. This article helps me understand more about how this process works. 
+2. [What Does Libraries Have Anything To Do with Linux?](https://tldp.org/HOWTO/Program-Library-HOWTO/)<br/>
+While we installing new packages , I realized that most of the packages we install on the 2nd package list starts with "lib" which makes me think that this must have something to do with libraries. This article I found was essentially made to make programmers understand how to make their own libraries, but in this article, there are some key points that I believe can potentially help you undesrtand the usage of libraries in Linux. 
+3. [What is Paging File in Windows?](https://www.howtogeek.com/126430/htg-explains-what-is-the-windows-page-file-and-should-you-disable-it/)<br/>
+In the slides that our lecturer has given, one of the subjects we learn in chpater 9 (Main Memory) is Paging File. While the slides have all the information you might need to know, this article I found explains this topic and give actual example we can actually test. I found this article to be quite helpful to make me understand more about how pagefile works.
+4. [Video: Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br/>
+One of the things we learn in memory management is Virtual Memory and its purposes to prevent a program to crash. This video simply explains the actual definition and the use cases of virtual memory. 
