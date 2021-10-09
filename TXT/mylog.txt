@@ -26,3 +26,12 @@ ZCZC W04 20 L06 GSGS references for W04 Links
 ZCZC W04 15 L08 Consulting to AsDos regarding TLPI
 ZCZC W04 60 L70 Sister Meeting
 ZCZC W04 45 L00 After Class Discussions
+ZCZC W05 40 L00 After Class Discussions
+ZCZC W05 120 L70 SDA Assignment
+ZCZC W05 75 L70 Sister Meeting
+ZCZC W05 100 L15 Assignment #05
+ZCZC W05 45 L05 Weekly OS Quiz
+ZCZC W05 30 L23 Troubleshooting last week's assignment rearding .TAR
+ZCZC W05 30 L06 GSGS references for W05 links
+ZCZC W05 20 L32 YouTube: Finding video references for W05 links and assignment
+ZCZC W05 50 L00 OS After Class Discussions
