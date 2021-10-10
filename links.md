@@ -43,3 +43,13 @@ While we installing new packages , I realized that most of the packages we insta
 In the slides that our lecturer has given, one of the subjects we learn in chpater 9 (Main Memory) is Paging File. While the slides have all the information you might need to know, this article I found explains this topic and give actual example we can actually test. I found this article to be quite helpful to make me understand more about how pagefile works.
 4. [Video: Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br/>
 One of the things we learn in memory management is Virtual Memory and its purposes to prevent a program to crash. This video simply explains the actual definition and the use cases of virtual memory. 
+
+# WEEK 05
+1. [Too High or Too Low?](https://knowledge.broadcom.com/external/article/168029/high-and-low-memory-explanation.html)<br/>
+In this week's assignment, one of the task is to experiment with allocated memory and see how low can we go. I tried to find out what is the purpose of this experiment and I found this article which explains what is High Memory and Low Memory. This also explain the Out of Memory killer situation that I believe to be the cause of crashes that happened when I change the base memory size.
+2. [What is Kernel, anyway?](https://www.baeldung.com/cs/os-kernel)<br/>
+In our experiment, we can see that crashing OS impacts the kernel to work properly, yet we ma not even know what is kernel in the first place and what does it do. This article I found explains every bits of information you should know about kernels which I think is a helpful read. 
+3. [Which allocators to select?](https://stackoverflow.com/questions/15470560/what-to-choose-between-slab-and-slub-allocator-in-linux-kernel)<br/>
+We learned that Linux has 3 memory allocators available, consists of SLOB, SLAB and SLUB. Each allocators have their own specific purposes. I found this forum in Stackoverflow which basically asking the same question as I do: Which allocators should we use in certain situations?
+4. [Video: Kinds of Memory](https://www.youtube.com/watch?v=dZcszUj5szA)<br/>
+Although the main reason memory exists is to store information, memory has different types, each with different usage. This video explains briefly about many kinds of memory and its usage. 
