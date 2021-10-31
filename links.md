@@ -53,3 +53,13 @@ In our experiment, we can see that crashing OS impacts the kernel to work proper
 We learned that Linux has 3 memory allocators available, consists of SLOB, SLAB and SLUB. Each allocators have their own specific purposes. I found this forum in Stackoverflow which basically asking the same question as I do: Which allocators should we use in certain situations?
 4. [Video: Kinds of Memory](https://www.youtube.com/watch?v=dZcszUj5szA)<br/>
 Although the main reason memory exists is to store information, memory has different types, each with different usage. This video explains briefly about many kinds of memory and its usage. 
+
+# WEEK 06
+1. [Multithreading? Multiprocessing?](https://blogs.uajy.ac.id/idekom/2019/08/23/pengertian-multi-processing-dan-multi-threading-pada-komputer/)<br/>
+This week, we take a look at one of the concepts of computing process which is multithreading and multiprocessing. Multithreading (as you might predicted by its name) separates each programs to process into some kind of thread and let it run simultaneously and separately. If you have enough curiosity with this concept, you ight like to take a look at this link, especially since this article I found was in Bhasa, so you might have easier time to understand the concept.
+2. [What makes Thread and Process different, anyway?](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br/>
+After reading previously attached article, you might have a hard time understand the concept of thread and process in the first place. What makes it so different? Why is the concept feels so similar? This article I found might help you clear up your confusion.  
+3. [There is variety of states if a process, you know?](https://www.tutorialspoint.com/what-are-the-different-states-of-a-process)<br/>
+A process is an active program. It can also be said as a program that is under execution. A process passes through different states as it executes. In order to understand each states of process, I might suggests you guys to check out this article I found. It has a clear diagram that explains the routes of states and explanations of each states.
+4. [Video: Communicate with a pipe()](https://www.youtube.com/watch?v=uHH7nHkgZ4w)<br/>
+One of the things we learn at multiprocessing is how can we communicate multiple processes. In order to do that, we can use pipe() system call. This video will simply explains how this concept of "piping" works. Essentially we send an array with a size of 2. Index 0 acts as a descriptor to read, and the other to write. To understand more about this concept, you can check out this video.  
