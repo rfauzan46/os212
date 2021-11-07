@@ -43,3 +43,11 @@ ZCZC W06 30 L06 GSGS references for W06 links
 ZCZC W06 30 L16 Assignment #06
 ZCZC W06 20 L32 YouTube: Finding video references for W06 links and assignment
 ZCZC W06 50 L00 OS After Class Discussions
+ZCZC W07 20 L16 Assignent #06
+ZCZC W07 100 L00 OS After Class Discussions
+ZCZC W07 45 L05 Weekly OS Quiz
+ZCZC W07 30 L23 Troubleshooting id_rsa for accessing os1.cs.ui.ac.id
+ZCZC W07 30 L06 GSGS references for W07 links
+ZCZC W07 30 L00 After Class Discussions
+ZCZC W07 25 L01 Filling out midterm survey for all classes
+ZCZC W07 20 L32 YouTube: Finding video references for W07 links and assignment
